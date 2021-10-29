@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\nikola\source\repos\project23\project23\source.cpp(144): warning C4715: 'Cvor::poslednji': not all control paths return a value
+  Project23.vcxproj -> C:\Users\Nikola\source\repos\Project23\Debug\Project23.exe
